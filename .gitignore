@@ -1,0 +1,48 @@
+# 🔹 Virtual Environment
+.venv/
+venv/
+
+# 🔹 Python Cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Environment Variables
+
+.env
+
+# 🔹 FAISS Index & Generated Data
+
+index/
+data/index/
+
+# 🔹 Logs & Temp Files
+
+*.log
+*.tmp
+
+# 🔹 Jupyter Notebook (if used later)
+
+.ipynb_checkpoints/
+
+# 🔹 OS Files
+
+.DS_Store
+Thumbs.db
+
+# 🔹 IDE / Editor Files
+
+.vscode/
+.idea/
+
+# 🔹 Build / Distribution
+
+build/
+dist/
+*.egg-info/
+
+# 🔹 Streamlit Cache
+
+.streamlit/
