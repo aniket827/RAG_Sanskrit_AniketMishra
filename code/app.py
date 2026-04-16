@@ -1,9 +1,6 @@
 """
 app.py — Streamlit UI for Sanskrit RAG System
-Aniket Mishra · CPU-only · No external APIs
 
-Run from project root:
-    streamlit run code/app.py
 """
 
 import os
